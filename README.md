@@ -1,6 +1,6 @@
 # Fish Time — Estação Meteorológica para Pescadores
 
-Estação meteorológica inteligente desenvolvida para monitorar o clima em tempo real e indicar condições seguras para pesca na **Represa de Guarapiranga (SP)**.
+Estação meteorológica inteligente desenvolvida para monitorar o clima em tempo real e indicar condições seguras para pesca.
 
 Projeto acadêmico desenvolvido em grupo, do curso de **Ciência da Computação — UNIP**.
 
